@@ -1,6 +1,6 @@
 # Inferential-Statistics-Project
  ADVANCED STATISTICS
-Here is an overall description of your **Inferential Statistics Graded Project** for the DSBA course:
+
 
 ### **Project Overview**
 
